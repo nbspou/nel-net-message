@@ -1,2 +1,2 @@
-# nl-net-message
+# nnmessage
 NeL Network Message connection implementation for Node.js
